@@ -35,18 +35,19 @@ A Python-based desktop voice assistant with a Tkinter GUI that listens to your v
 1. Clone the repository
 
    git clone https://github.com/yourusername/jarvis-ai-voice-assistant.git
+   
    cd jarvis-ai-voice-assistant
 
-2. Install dependencies
+3. Install dependencies
    pip install pyttsx3 SpeechRecognition wikipedia pyjokes pygame
    pip install pipwin
    pipwin install pyaudio
 
-3. Run the app
+4. Run the app
    python voice assistant.py
 
-4.  Set Custom Music Path
+5.  Set Custom Music Path
    
-   In the code, replace this path with the actual location of your .mp3 file:
+      In the code, replace this path with the actual location of your .mp3 file:
 
-   file_path = r"C:\Users\YOURNAME\Downloads\your-music-file.mp3"   
+      file_path = r"C:\Users\YOURNAME\Downloads\your-music-file.mp3"   
