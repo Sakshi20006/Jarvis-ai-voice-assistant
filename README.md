@@ -46,6 +46,7 @@ A Python-based desktop voice assistant with a Tkinter GUI that listens to your v
    python voice assistant.py
 
 4.  Set Custom Music Path
+   
    In the code, replace this path with the actual location of your .mp3 file:
 
    file_path = r"C:\Users\YOURNAME\Downloads\your-music-file.mp3"   
