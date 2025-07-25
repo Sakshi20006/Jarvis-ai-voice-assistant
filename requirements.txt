@@ -1,0 +1,12 @@
+Requirements(All packages):-
+
+pyttsx3
+SpeechRecognition
+wikipedia
+pyjokes
+pygame
+pipwin
+
+After installing pipwin, you’ll also need to run:
+
+pipwin install pyaudio
