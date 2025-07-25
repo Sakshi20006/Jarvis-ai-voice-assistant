@@ -1,6 +1,3 @@
-# Jarvis-ai-voice-assistant
- A Python-based voice assistant with GUI
-
 # Jarvis AI - Voice Assistant with GUI
 
 A Python-based desktop voice assistant with a Tkinter GUI that listens to your voice commands and performs tasks like searching Wikipedia, playing music, telling jokes, opening websites, and reporting time and date.
